@@ -1,16 +1,75 @@
-## Hi there 👋
+# Sharod Allen
 
-<!--
-**sja32/sja32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cloud Security | Infrastructure Automation | RMF/STIG Engineering
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+Information Systems Security Engineer with experience in:
+
+- DISA STIG & RMF compliance
+- Cisco ISE / Comply-to-Connect
+- Azure cloud security labs
+- AWX & Ansible automation
+- Infrastructure hardening
+- Security remediation workflows
+
+Currently focused on:
+
+- Cloud Security Architecture
+- Azure Networking & Security
+- Infrastructure as Code
+- Security Automation Pipelines
+
+---
+
+## Certifications
+
+- CCNA
+- Security+
+- Microsoft Azure Fundamentals
+- CISSP (In Progress)
+
+---
+
+## Core Technologies
+
+- Azure
+- Terraform
+- AWX / Ansible
+- PowerShell
+- Cisco Routing & Switching
+- Cisco ISE
+- Windows Server
+- Linux
+- Proxmox
+- Docker
+- GitHub Actions
+
+---
+
+## Featured Projects
+
+### Secure Azure Web Server Lab
+- Hub-and-spoke networking
+- NSGs and routing
+- Reverse proxy architecture
+- Terraform deployment
+- Security hardening
+
+### Evaluate-STIG Automation
+- Automated DISA STIG deployment
+- PowerShell remediation workflows
+- Compliance automation
+
+### AWX Windows Automation
+- Automated remediation pipelines
+- Infrastructure orchestration
+- Windows administration automation
+
+---
+
+## Current Focus
+
+Building cloud security and infrastructure automation projects that align with enterprise security engineering and compliance operations.
