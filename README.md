@@ -80,6 +80,10 @@ Infrastructure orchestration and remediation workflows using:
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sja32&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sja32&layout=compact&theme=tokyonight)
+
 ## Current Focus
 
 Building cloud security and infrastructure automation projects aligned with enterprise security engineering and compliance operations.
