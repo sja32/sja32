@@ -1,12 +1,12 @@
 # Sharod Allen
 
-### Cloud Security | Infrastructure Automation | RMF/STIG Engineering
+### Cloud Security • Infrastructure Automation • RMF/STIG Engineering
 
 ---
 
 ## About Me
 
-Information Systems Security Engineer with experience in:
+Information Systems Security Engineer specializing in:
 
 - DISA STIG & RMF compliance
 - Cisco ISE / Comply-to-Connect
@@ -16,10 +16,9 @@ Information Systems Security Engineer with experience in:
 - Security remediation workflows
 
 Currently focused on:
-
 - Cloud Security Architecture
 - Azure Networking & Security
-- Infrastructure as Code
+- Infrastructure as Code (Terraform)
 - Security Automation Pipelines
 
 ---
@@ -35,23 +34,14 @@ Currently focused on:
 
 ## Core Technologies
 
-- Azure
-- Terraform
-- AWX / Ansible
-- PowerShell
-- Cisco Routing & Switching
-- Cisco ISE
-- Windows Server
-- Linux
-- Proxmox
-- Docker
-- GitHub Actions
+`Azure` `Terraform` `AWX` `Ansible` `PowerShell` `Cisco ISE` `Windows Server` `Linux` `Docker` `Proxmox`
 
 ---
 
 ## Featured Projects
 
 ### Secure Azure Web Server Lab
+Enterprise-style Azure lab featuring:
 - Hub-and-spoke networking
 - NSGs and routing
 - Reverse proxy architecture
@@ -59,17 +49,21 @@ Currently focused on:
 - Security hardening
 
 ### Evaluate-STIG Automation
-- Automated DISA STIG deployment
-- PowerShell remediation workflows
-- Compliance automation
+Automation workflows for:
+- DISA STIG deployment
+- PowerShell remediation
+- Compliance validation
+- Enterprise standardization
 
 ### AWX Windows Automation
-- Automated remediation pipelines
-- Infrastructure orchestration
-- Windows administration automation
+Infrastructure orchestration and remediation workflows using:
+- AWX
+- PowerShell
+- Windows automation
+- Deployment pipelines
 
 ---
 
 ## Current Focus
 
-Building cloud security and infrastructure automation projects that align with enterprise security engineering and compliance operations.
+Building cloud security and infrastructure automation projects aligned with enterprise security engineering and compliance operations.
