@@ -21,7 +21,6 @@ Currently focused on:
 - Infrastructure as Code (Terraform)
 - Security Automation Pipelines
 
----
 
 ## Featured Architecture Project
 
