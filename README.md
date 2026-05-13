@@ -23,6 +23,23 @@ Currently focused on:
 
 ---
 
+## Featured Architecture Project
+
+### Azure Hub-Spoke Azure Firewall Routing Lab
+
+Terraform-based Azure hub-and-spoke architecture featuring:
+- Azure Firewall
+- Centralized egress filtering
+- UDR routing
+- Secure segmentation
+- Infrastructure as Code deployment
+
+🔗 Repository:
+https://github.com/sja32/azure-hub-spoke-azure-firewall-terraform
+
+
+---
+
 ## Certifications
 
 - CCNA
