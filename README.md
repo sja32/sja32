@@ -83,3 +83,7 @@ Infrastructure orchestration and remediation workflows using:
 ## Current Focus
 
 Building cloud security and infrastructure automation projects aligned with enterprise security engineering and compliance operations.
+
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=sja32&theme=tokyonight&hide_border=true)
